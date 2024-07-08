@@ -11,3 +11,6 @@ facing significant challenges. The visualizations will employ various techniques
 graphs, charts, and maps to effectively convey the information and guide the viewer through 
 the findings. Through these visualizations and insights, I suggested key points and 
 recommendations needed to minimize suicide incidents in future.
+
+FIND MORE HERE:
+https://www.kaggle.com/datasets/dhanushkatharanga/who-suicide-data
